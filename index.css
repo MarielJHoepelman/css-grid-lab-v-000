@@ -21,9 +21,11 @@ body {
 /* add the .bigItem class */
 .bigItem {
   grid-area: 2 / 2 / 4 / 4;
+  
   /*above same as */
   /*grid-row: 2 / 4;*/
   /*grid-column: 2 / 4;*/
+
   /* above is same as */
   /*.bigItem {
   grid-row-start: 2;
